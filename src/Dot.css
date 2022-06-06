@@ -3,9 +3,12 @@
     height: 50px;
     border-radius: 50px;
     background-color: black;
+    margin-left: 10px;
     margin-top: 10px;
+    text-align: center;
 }
 
-.dot + .dot {
-    margin-left: 10px;
-}
+.dot:hover{
+    background-color: green;
+  
+  }
